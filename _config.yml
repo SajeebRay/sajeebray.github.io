@@ -21,35 +21,35 @@ repository               : "sajeebray/sajeebray.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile1.jpg"
   name             : "Sajeeb Kumar Ray"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher: Computer Vision, Deep Learning, NLP | Specialist @ Codeforces, 4★ @ CodeChef | Top Student & Class Representative @ Dept. of ICE, PUST"
   location         : "Pabna, Bangladesh"
-  employer         : "Red Brick University"
+  employer         : "Pabna University of Science and Technology"
   uri              : # URL
   email            : "sajeebbro2002@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=uSIpOFkAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-9910-7551"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Sajeeb-Kumar-Ray"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59135757800"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SajeebRay"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
