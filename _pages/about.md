@@ -1,49 +1,116 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A heartfelt welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement.
 
-A data-driven personal website
+
+Achievements
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. 🏆 **Disaster Hackathon 2.0 Finalist**
+- **Issued by**: Start Network · **Nov 2024**
+- **Details**:  
+  - Top 5 Teams advancing to the **CULTIVATE STAGE** (October 27–30, 2024) at **CCDB Climate Park, Gazipur**.  
+  - Offered to pilot our project at the end of this stage!  
+- **Team Name**: PREVENTERs  
+- **Team Lead**: Sajeeb Kumar Ray  
+- ![Disaster Hackathon Certificate](Disaster_Hackathon_2.0_Top-5_Certificate.png)
 
-Getting started
+---
+
+1. 🥇 **1st Position in 3rd Year Examination Result**
+- **Issued by**: Dept. of Information and Communication Engineering · **Sep 2024**  
+- **Details**:  
+  - **1st Semester SGPA**: 3.88 (19.5 Credits, Position: 2nd)  
+  - **2nd Semester SGPA**: 3.93 (21 Credits, Position: 1st)  
+  - **Overall YGPA**: 3.91, **Overall Position**: 1st  
+
+---
+
+## 🏆 **Champion - Innovation Showcasing-2024**
+- **Issued by**: ICT Cell, PUST · **May 2024**  
+- **Details**:  
+  - Awarded the **First Prize** by the Honorable Vice-Chancellor.  
+  - 🎉 **Innovation Showcasing 2024**: An exciting and memorable day!  
+
+---
+
+## 🥇 **1st Position in 2nd Year Examination Result**
+- **Issued by**: Dept. of Information and Communication Engineering · **Oct 2023**  
+- **Details**:  
+  - **1st Semester SGPA**: 3.93 (20.25 Credits, Position: 1st)  
+  - **2nd Semester SGPA**: 3.93 (21.75 Credits, Position: 1st)  
+  - **Overall YGPA**: 3.93, **Overall Position**: 1st  
+
+---
+
+## 🥉 **3rd Rank (Bangladesh) - Codeforces Round 857 (Div. 2)**
+- **Issued by**: Codeforces · **Mar 2023**  
+- **Details**:  
+  - Solved **4 out of 7 problems**.  
+  - **Handle**: [sajeeb02](https://codeforces.com/profile/sajeeb02)  
+  - **Country Rank**: 3 | **Global Rank**: 350  
+- [Ranklist](https://codeforces.com/contest/1802/standings/participant/151147589#p151147589)  
+- ![Codeforces Ranklist](Codeforces_Round_857_Ranklist.jpg)
+
+---
+
+## 🥇 **Champion - ICE Fiesta Programming Contest-2023**
+- **Issued by**: Dept. of Information and Communication Engineering · **Jan 2023**  
+- **Details**:  
+  - Team contest held during **2nd Year 1st Semester**.  
+  - **Team Name**: PUSTFaulhabers2  
+- [Ranklist](https://lightoj.com/contest/icefiesta2023/ranklist)  
+- ![ICE Fiesta Ranklist](ICE_FIESTA_2023_PROGRAMMING_CONTEST_RANKLIST.jpg)
+
+---
+
+## 🥇 **1st Position in 1st Year Examination Result**
+- **Issued by**: Dept. of Information and Communication Engineering · **Oct 2022**  
+- **Details**:  
+  - **1st Semester SGPA**: 3.80 (19.5 Credits, Position: 1st)  
+  - **2nd Semester SGPA**: 3.83 (22.5 Credits, Position: 2nd)  
+  - **Overall YGPA**: 3.82, **Overall Position**: 1st  
+
+---
+
+## 🏅 **4th Rank (Bangladesh) - CodeChef Starters 49 Division 4**
+- **Issued by**: CodeChef · **Jul 2022**  
+- **Details**:  
+  - Solved **7 out of 8 problems**.  
+  - **Country Rank**: 4 | **Global Rank**: 171  
+- [Ranklist](https://www.codechef.com/rankings/START49D?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank)  
+- **Profile**: [sajeeb02](https://www.codechef.com/users/sajeeb02)  
+- ![CodeChef Ranklist](CodeChef_Ranklist_START49D.jpg)
+
+---
+
+## 🏅 **5th Rank (Bangladesh) - CodeChef Starters 79 Division 2**
+- **Issued by**: CodeChef · **Mar 2023**  
+- **Details**:  
+  - Solved **5 out of 8 problems**.  
+  - **Country Rank**: 5 | **Global Rank**: 123  
+- [Ranklist](https://www.codechef.com/rankings/START79B?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank)  
+- **Profile**: [sajeeb02](https://www.codechef.com/users/sajeeb02)  
+- ![CodeChef Ranklist](CodeChef_Ranklist_START79B.jpg)
+
+
+Biography
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Sajeeb Kumar Ray is a dedicated and accomplished student, researcher, and leader with a strong background in engineering and technology. He is currently studying at the Faculty of Engineering and Technology, Pabna University of Science and Technology (PUST), where he has earned the distinction of being the top student in his faculty.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Sajeeb has a remarkable track record in academics, research, and competitive programming. He has one Scopus-indexed journal article and has successfully presented four papers at prestigious conferences. His research interests lie in cutting-edge areas such as Computer Vision, Image Processing, Deep Learning, Machine Learning, Embedded Systems, and the Internet of Things.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+As a competitive programmer from 2020 to 2022, Sajeeb participated in over 80 contests and solved more than 750 problems. His skills are reflected in his Specialist rank on CodeForces, a 4-star rating on CodeChef, and a Gold badge for problem-solving on HackerRank.
 
-**Markdown generator**
+Sajeeb's talent for innovation and problem-solving earned him recognition as a finalist in the Disaster Hackathon 2.0 and the Champion of Innovation Showcasing-2024. He has also completed three significant projects in embedded systems, further showcasing his technical expertise.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Beyond academics, Sajeeb is a natural leader and community builder. He serves as the Vice President of Solver Green, promoting green technologies, and the General Secretary of the Nilphamari Student Welfare Society, where he actively supports his community. Additionally, he is a founding member of the PUST Career and Entrepreneurship Club, working to inspire and guide students in their professional development.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Sajeeb Kumar Ray is a well-rounded individual who combines his technical skills, innovative mindset, and leadership qualities to make a meaningful impact in his field and community.
