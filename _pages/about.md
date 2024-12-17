@@ -22,8 +22,6 @@ Achievements
 - **Team Lead**: Sajeeb Kumar Ray  
 - ![Disaster Hackathon Certificate](Disaster_Hackathon_2.0_Top-5_Certificate.png)
 
----
-
 1. 🥇 **1st Position in 3rd Year Examination Result**
 - **Issued by**: Dept. of Information and Communication Engineering · **Sep 2024**  
 - **Details**:  
