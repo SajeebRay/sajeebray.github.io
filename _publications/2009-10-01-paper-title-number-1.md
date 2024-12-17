@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper examines human activity recognition (HAR) using the UCI-HAR dataset, presenting a multi-layer perceptron (MLP) model that achieves 97% accuracy.'
 date: 2024-06-01
-venue: 'Journal 1'
+venue: 'International Journal of Advances in Applied Sciences (IJAAS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ijaas.iaescore.com/index.php/IJAAS/article/view/21174/13122'
 citation: 'M. A. Hossain, S. K. Ray, N. Islam, A. Alamin, and M. A. F. M. R.Hasan, "Enhanced human activity recognition through deep multi-layer perceptron on the UCI-HAR dataset," International Journal of Advances in Applied Sciences, vol. 13, pp. 429-438, 2024.'

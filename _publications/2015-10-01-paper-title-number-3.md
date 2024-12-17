@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50 [Under Review]"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'In this research, developed a deep multi-task learning CNN model (MTL-CNN) for fruit freshness detection and fruit-type classification, achieving 98.63% accuracy by leveraging shared feature extraction and addressing imbalanced datasets. '
+date: 2024-02-02
+venue: 'Under Review in MECS Press Journal'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'SK Ray, MA Hossain, N Islam and Mirza AFMRH; Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this research, developed a deep multi-task learning CNN model (MTL-CNN) for fruit freshness detection and fruit-type classification, achieving 98.63% accuracy by leveraging shared feature extraction and addressing imbalanced datasets. The model outperforms existing methods like InceptionV3 and CNN_BiLSTM, offering significant implications for automated quality control, food safety, and waste reduction in the agricultural and consumer sectors.
