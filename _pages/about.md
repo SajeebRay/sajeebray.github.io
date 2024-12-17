@@ -10,25 +10,35 @@ redirect_from:
 I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement.
 
 
-Achievements
+Academic Achievements
 ======
 
-1. 🥇 **1st Position in 1st, 2nd and 3rd Year Examination Result**
-- Issued by: Dept. of Information and Communication Engineering · Sep 2024  
+1. 🥇 **B.Sc. (Engineering) in ICE**
+Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
+- Currently in Final Year.
 - *1st Year Details*:  
   - 1st Semester SGPA: 3.80 (19.5 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.83 (22.5 Credits, Position: 2nd)   
-  - *Overall YGPA*: 3.82, **Overall Position**: 1st  
-
+  - *Overall YGPA*: 3.82, Overall Position: 1st  
 - *2nd Year Details*:  
   - 1st Semester SGPA: 3.93 (20.25 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.93 (21.75 Credits, Position: 1st)    
-  - *Overall YGPA*:  3.93, **Overall Position**: 1st  
-
+  - *Overall YGPA*:  3.93, Overall Position: 1st  
 - *3rd Year Details*:  
   - 1st Semester SGPA: 3.88 (19.5 Credits, Position: 2nd)  
   - 2nd Semester SGPA: 3.93 (21 Credits, Position: 1st)  
-  - *Overall YGPA*: 3.91, **Overall Position**: 1st  
+  - *Overall YGPA*: 3.91, Overall Position: 1st  
+
+1. 🥇 **Higher Secondary School Certificate**
+Collectorate School and College Rangpur (CSCR), Rangpur.
+- Group: Science | Board: Dinajpur | GPA: 5.00 out of 5.00 
+
+1. 🥇 **Secondary School Certificate**
+- Jaldhaka Government Model Pilot High School (JGMPHS), Jaldhaka.
+- Group: Science | Board: Dinajpur | GPA: 5.00 out of 5.00 
+
+Other Achievements
+======
 
 1. 🏆 **Disaster Hackathon 2.0 Finalist**
 - Issued by: Start Network · Nov 2024
