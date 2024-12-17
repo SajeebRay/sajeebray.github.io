@@ -17,9 +17,6 @@ main:
   - title: "Leadership"
     url: /leadership/  
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
   # - title: "Portfolio"
   #   url: /portfolio/
         
@@ -33,4 +30,4 @@ main:
   #   url: /markdown/
 
   - title: "Biography"
-    url: /biography/
+    url: /teaching/    
