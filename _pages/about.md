@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement.
+<div align="justify"> I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement. </div>
 
 
 Academic Achievements
