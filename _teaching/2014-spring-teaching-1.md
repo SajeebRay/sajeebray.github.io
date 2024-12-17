@@ -4,10 +4,10 @@ title: "Biography"
 # type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"
-date: 2024-12-01
+# date: 2024-12-01
 # location: "City, Country"
 ---
-=====
+
 <div align="justify">
 Sajeeb Kumar Ray is a dedicated and accomplished student, researcher, and leader with a strong background in engineering and technology. He is currently studying at the Faculty of Engineering and Technology, Pabna University of Science and Technology (PUST), where he has earned the distinction of being the top student in his faculty.
 <br>
