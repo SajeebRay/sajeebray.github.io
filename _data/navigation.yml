@@ -17,8 +17,8 @@ main:
   - title: "Leadership"
     url: /leadership/  
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Competitive Programming"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
