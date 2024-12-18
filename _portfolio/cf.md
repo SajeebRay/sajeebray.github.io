@@ -1,6 +1,6 @@
 ---
 title: "Codeforces"
-excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/500x300.png'>"
+excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='https://github.com/SajeebRay/Competitive-Programmming/blob/main/Profile%20Screenshot/CodeForces1.jpg'>"
 collection: portfolio
 ---
 
