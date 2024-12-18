@@ -1,7 +1,7 @@
 ---
 title: "Codeforces"
-excerpt: "In codeforces, I have solved 490 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist)<img src='/images/500x300.png'>"
+excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <a href="https://codeforces.com/profile/sajeeb02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajeeb02" height="30" width="40" /> CodeForces Profile Link</a> <img src='https://github.com/SajeebRay/Competitive-Programmming/blob/main/Profile%20Screenshot/CodeForces1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My journey started on codeforces in July-2020 and ended in March-2023. I was solved 492 problems there. <br>
