@@ -7,20 +7,16 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+<H3> Competitive Programming Story</H3>
+I was started competitive programming in May 2020 and solved over 750 problems on various online judges. Unfortunately, I had to leave competitive programming in March 2023 because most of the NCPC and ICPC contests were scheduled during my exams. This was a particularly disappointing time for me, as I wanted to participate but couldn't perform due to my academic commitments. Here are my achievements: <br>
+  <ul> 
+  <li> 1st Runner Up, ICE Fiesta Programming Contest 2024 </li>
+  <li> Champion, ICE Fiesta Programming Contest 2023 </li>
+  <li> Bangladesh 3rd Rank (Global 350th), Codeforces Round 857 (Div. 2) </li>
+  <li> Bangladesh 5th Rank (Global 123rd), CodeChef Starters 79 (Div. 2) </li>
+  <li> Bangladesh 4th Rank (Global 171st), CodeChef Starters 49 (Div. 4) </li>
+  </ul> 
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
 ## Tips and hints
 
