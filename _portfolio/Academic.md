@@ -10,15 +10,15 @@ collection: portfolio
 - *1st Year Details*:  
   - 1st Semester SGPA: 3.80 (19.5 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.83 (22.5 Credits, Position: 2nd)   
-  - *Overall YGPA*: 3.82, Overall Position: 1st among 40 students
+  - *Overall YGPA*: 3.82, Overall Position: 1st among 41 students
 - *2nd Year Details*:  
   - 1st Semester SGPA: 3.93 (20.25 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.93 (21.75 Credits, Position: 1st)    
-  - *Overall YGPA*:  3.93, Overall Position: 1st among 40 students 
+  - *Overall YGPA*:  3.93, Overall Position: 1st among 41 students 
 - *3rd Year Details*:  
   - 1st Semester SGPA: 3.88 (19.5 Credits, Position: 2nd)  
   - 2nd Semester SGPA: 3.93 (21 Credits, Position: 1st)  
-  - *Overall YGPA*: 3.91, Overall Position: 1st among 40 students
+  - *Overall YGPA*: 3.91, Overall Position: 1st among 41 students
 
 1. **Higher Secondary School Certificate**
  · Collectorate School and College Rangpur (CSCR), Rangpur  · 2019
