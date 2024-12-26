@@ -1,6 +1,6 @@
 ---
 title: "Disaster Hackathon 2.0 Finalist"
-excerpt: "Top 5 Teams advancing to the CULTIVATE STAGE (October 27–30, 2024) at CCDB Climate Centre, Gazipur. <img src='/images/Preventers.jpg'>"
+excerpt: "Top 5 Teams advancing to the CULTIVATE STAGE (October 27–30, 2024) at CCDB Climate Centre, Gazipur. <img src='/files/Preventers.jpg'>"
 collection: portfolio
 ---
 

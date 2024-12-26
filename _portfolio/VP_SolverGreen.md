@@ -1,6 +1,6 @@
 ---
 title: "Vice President - Solver Green"
-excerpt: "Solver Green, a social organization focused on Learning, Volunteering, Education, and Research <img src='/images/VP-solvergreen.jpg'>"
+excerpt: "Solver Green, a social organization focused on Learning, Volunteering, Education, and Research <img src='/files/VP-solvergreen.jpg'>"
 collection: portfolio
 ---
 
@@ -18,4 +18,4 @@ This course aims to empower students with the essential tools to contribute mean
 
 None of this would have been possible without the hard work and dedication of the Solver Green team.
 <br> <br>
-<button class = "btn" onclick="window.location.href='https://sajeebray.github.io/talks/';">Visit Solver Green</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/talks/';">View Ulocking Research Course</button>
+<button class = "btn" onclick="window.location.href='https://web.facebook.com/solvergreen1';">Visit Solver Green</button> <button class = "btn" onclick="window.location.href='https://web.facebook.com/share/p/1HJsdccyxT/';">View Unlocking Research Course</button>
