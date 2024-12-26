@@ -17,8 +17,8 @@ main:
   - title: "Download CV"
     url: /files/CV-SK-Ray-17-12-2024.pdf
     
-  - title: "Story"
-    url: /markdown/
+  # - title: "Story"
+  #   url: /markdown/
 
 
   # Need a section for project
