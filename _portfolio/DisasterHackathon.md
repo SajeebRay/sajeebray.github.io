@@ -15,3 +15,6 @@ This groundbreaking idea earned us a spot among the top 5 finalists in the hacka
 We were also offered an opportunity to pilot our solution, with the potential to make a significant impact during disaster situations. Collaborating with the other four finalist teams was a highlight of the event—their invaluable suggestions and shared commitment to addressing disaster challenges made the experience truly rewarding.
 
 Special thanks to my amazing teammates—Naima Islam, MH Rokon, Muhammad Sagor vai and AL AMIN. Their hard work and dedication made us proud throughout this journey!
+
+<br><br>
+<button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/Event-Overview-Disaster-Hackathon-2.pdf';">More Details</button>

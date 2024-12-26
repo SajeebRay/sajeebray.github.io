@@ -1,8 +1,11 @@
 ---
 title: "Innovation Showcasing Champion"
-excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/files/Innovation.jpg'>"
+excerpt: "Hosted by ICT Cell, Pabna University of Science and Technology <img src='/files/Innovation.jpg'>"
 collection: portfolio
 ---
 
-<a href="https://codeforces.com/profile/sajeeb02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajeeb02" height="30" width="40" /> CodeForces Profile Link</a> <br>
-My journey started on codeforces in July-2020 and ended in March-2023. I was solved 492 problems there.
+Innovation Showcasing-2024 was an idea design competition where I proposed "Smart Bedroom Technology" to assist physically challenged individuals, especially those from middle-income families.
+
+The event was organized by the ICT Cell of PUST. I was a joint champion alongside another project, "Vehicle Tracking with Alarm," designed to help students track varsity buses passing near their homes.
+<br>
+The awards were presented to me by the Honorable Vice-Chancellor, the Director of the ICT Cell, and the Student Advisor's Office. <img src='/files/Innovation.jpg'>
