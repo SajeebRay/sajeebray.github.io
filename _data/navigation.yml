@@ -14,20 +14,20 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Leadership"
-    url: /leadership/  
-
-  - title: "Competitive Programming"
+  - title: "Portfolio"
     url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
+  - title: "Extra-Curricular"
+    url: /leadership/  
+
   - title: "Download CV"
     url: /files/CV-SK-Ray-17-12-2024.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/
 
   # - title: "Teaching"
   #   url: /teaching/    
