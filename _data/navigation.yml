@@ -7,21 +7,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  # - title: "Projects"
-  #   url: /projects/    
-
+  
   - title: "Talks"
     url: /talks/    
 
   - title: "Portfolio"
     url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  - title: "Extra-Curricular"
-    url: /leadership/  
 
   - title: "Download CV"
     url: /files/CV-SK-Ray-17-12-2024.pdf
@@ -29,5 +20,12 @@ main:
   - title: "Story"
     url: /markdown/
 
+
+  # Need a section for project
+  # Need a section for Extra-Curricular
+
+  # Available sections are
+  # - title: "Blog Posts"
+  #   url: /year-archive/
   # - title: "Teaching"
   #   url: /teaching/    
