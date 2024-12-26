@@ -5,8 +5,8 @@ collection: portfolio
 ---
 
 1. **B.Sc. (Engineering) in ICE**
- · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh  · (Expected: 2025)
-- Currently in Final Year.
+ · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
+- Degree Expected: June 2025
 - *1st Year Details*:  
   - 1st Semester SGPA: 3.80 (19.5 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.83 (22.5 Credits, Position: 2nd)   
