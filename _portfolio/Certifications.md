@@ -1,6 +1,6 @@
 ---
 title: "ML Certificates"
-excerpt: "HackerRank is the platform, where I learnt coding and earned several batches. <br/> <img src='/images/HackerRank1.jpg'>"
+excerpt: "HackerRank is the platform, where I learnt coding and earned several batches. <br/> <img src='/images/x.jpg'>"
 collection: portfolio
 ---
 This is my HackerRank profile, showcasing my achievements and skills in programming.

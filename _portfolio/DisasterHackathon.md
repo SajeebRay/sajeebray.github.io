@@ -1,6 +1,6 @@
 ---
 title: "Disaster Hackathon 2.0 Finalist"
-excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/CodeForces1.jpg'>"
+excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/x.jpg'>"
 collection: portfolio
 ---
 
