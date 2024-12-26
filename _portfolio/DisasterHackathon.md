@@ -18,3 +18,4 @@ Special thanks to my amazing teammates—Naima Islam, MH Rokon, Muhammad Sagor v
 
 <br><br>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/Event-Overview-Disaster-Hackathon-2.pdf';">More Details</button>
+<img src='/files/Preventers.jpg'>

@@ -17,5 +17,6 @@ I’m happy to share the great success of our **Unlocking Research: From Concept
 This course aims to empower students with the essential tools to contribute meaningfully to research, both at PUST and for Bangladesh as a whole. With 250 participants engaged, I am confident we will nurture a new wave of research talent.
 
 None of this would have been possible without the hard work and dedication of the Solver Green team.
-<br> <br>
+<br>
 <button class = "btn" onclick="window.location.href='https://web.facebook.com/solvergreen1';">Visit Solver Green</button> <button class = "btn" onclick="window.location.href='https://web.facebook.com/share/p/1HJsdccyxT/';">View Unlocking Research Course</button>
+ <img src='/files/VP-solvergreen.jpg'>

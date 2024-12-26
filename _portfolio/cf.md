@@ -8,3 +8,4 @@ My journey on Codeforces began in July 2020 and ended in March 2023. During this
 
 <br> <br>
 <a href="https://codeforces.com/profile/sajeeb02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajeeb02" height="30" width="40" /> CodeForces Profile Link</a> 
+<img src='/images/CodeForces1.jpg'>
