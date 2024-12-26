@@ -1,5 +1,5 @@
 ---
-title: "CodeChef"
+title: "Competitive Programming - CodeChef"
 excerpt: "I used CodeChef online judge for contests only.<br/>Highest rating: 1822 (4-Star) <img src='/images/CodeChef.jpg'>"
 collection: portfolio
 ---

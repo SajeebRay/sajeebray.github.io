@@ -1,5 +1,5 @@
 ---
-title: "CodeForces"
+title: "Competitive Programming - CodeForces"
 excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/CodeForces1.jpg'>"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Innovation Showcasing Champion"
-excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/x.jpg'>"
+excerpt: "In codeforces, I have solved 492 programming problem, and participated in several contests. <br/>Highest rating: 1492 (specialist) <img src='/images/Innovation.jpg'>"
 collection: portfolio
 ---
 
