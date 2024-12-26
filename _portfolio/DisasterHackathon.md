@@ -16,6 +16,5 @@ We were also offered an opportunity to pilot our solution, with the potential to
 
 Special thanks to my amazing teammates—Naima Islam, MH Rokon, Muhammad Sagor vai and AL AMIN. Their hard work and dedication made us proud throughout this journey!
 
-<br><br>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/Event-Overview-Disaster-Hackathon-2.pdf';">More Details</button>
 <img src='/files/Preventers.jpg'>
