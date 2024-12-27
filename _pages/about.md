@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 <div align="justify"> I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement. <br></div>
-<br>
+<button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
+<button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 
 Academic
 -----
