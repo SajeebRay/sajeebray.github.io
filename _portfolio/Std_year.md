@@ -19,5 +19,7 @@ And for leadership roles: <br>
 💼 Founding Member - PUST Career and Entrepreneurship Club (PUSTCEC) <br>
 💼 Class Representative <br>
 
+<h3>Certificate </h3>
 <img src='/images/Std_Year_Award.jpg'>
+<h3>The Chairman of the Department of ICE, along with faculty members, presented me with the award.</h3>
 <img src='/images/Student-of-the-Year-Award.jpg'>
