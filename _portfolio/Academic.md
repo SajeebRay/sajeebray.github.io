@@ -1,7 +1,6 @@
 ---
 title: "Outstanding Academic Result"
-excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST) <img src='/images/
-Academic-Award.jpg'>"
+excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST) <img src='/images/Academic-Award.jpg'>"
 collection: portfolio
 ---
 
@@ -30,5 +29,4 @@ collection: portfolio
 - Group: Science | Board: Dinajpur | GPA: 5.00 out of 5.00 
 
 <H3>Academica Excellance Award - 2025 </H3>
-<img src='/images/
-Academic-Award.jpg'>"
+<img src='/images/Academic-Award.jpg'>"
