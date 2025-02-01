@@ -1,5 +1,5 @@
 ---
-title: "Innovation Showcasing Champion"
+title: "Champion; Innovation Showcasing - 2024"
 excerpt: "Hosted by ICT Cell, Pabna University of Science and Technology <img src='/files/Innovation.jpg'>"
 collection: portfolio
 ---
