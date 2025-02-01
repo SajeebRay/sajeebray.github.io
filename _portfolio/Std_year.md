@@ -1,22 +1,23 @@
 ---
 title: "Student of the Year Award - 2025"
-excerpt: "Issued by: Dept. of ICE, PUST. <img src='Std_Year_Award.jpg'>"
+excerpt: "Issued by: Dept. of ICE, PUST. <img src='/images/Student-of-the-Year-Award.jpg'>"
 collection: portfolio
 ---
 
-I’m honored to be awarded Student of the Year! 
+I’m honored to be awarded Student of the Year!  <br>
+ <br>
+This recognition is for my achievements in: <br>
+✅ University Merit Scholarship <br>
+✅ 1 Journal Article <br>
+✅ 4 Conference Articles <br>
+✅ Disaster Hackathon 2.0 Finalist <br>
+✅ Idea Showcasing 2024 Champion <br>
+ <br>
+And for leadership roles: <br>
+💼 Vice President - Solver Green <br>
+💼 General Secretary - Nilphamari Student Welfare Society <br>
+💼 Founding Member - PUST Career and Entrepreneurship Club (PUSTCEC) <br>
+💼 Class Representative <br>
 
-This recognition is for my achievements in:
-✅ University Merit Scholarship
-✅ 1 Journal Article
-✅ 4 Conference Articles
-✅ Disaster Hackathon 2.0 Finalist
-✅ Idea Showcasing 2024 Champion
-
-And for leadership roles:
-💼 Vice President - Solver Green
-💼 General Secretary - Nilphamari Student Welfare Society
-💼 Founding Member - PUST Career and Entrepreneurship Club (PUSTCEC)
-💼 Class Representative
-
-<img src='Std_Year_Award.jpg'>
+<img src='/images/Std_Year_Award.jpg'>
+<img src='/images/Student-of-the-Year-Award.jpg'>
