@@ -1,6 +1,7 @@
 ---
 title: "Outstanding Academic Result"
-excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST)"
+excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST) <img src='/images/
+Academic-Award.jpg'>"
 collection: portfolio
 ---
 
@@ -27,3 +28,7 @@ collection: portfolio
 1. **Secondary School Certificate**
  · Jaldhaka Government Model Pilot High School (JGMPHS), Jaldhaka  · 2017
 - Group: Science | Board: Dinajpur | GPA: 5.00 out of 5.00 
+
+<H3>Academica Excellance Award - 2025 </H3>
+<img src='/images/
+Academic-Award.jpg'>"
