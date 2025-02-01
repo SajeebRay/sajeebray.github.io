@@ -10,7 +10,7 @@ redirect_from:
 <div align="justify"> I am Sajeeb Kumar Ray, a passionate student, researcher, and leader with expertise in engineering, technology, and innovation. I strive to make a meaningful impact through research, competitive programming, and community engagement. <br></div>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
-
+<button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
 Academic
 -----
 
@@ -38,46 +38,6 @@ Academic
  · Jaldhaka Government Model Pilot High School (JGMPHS), Jaldhaka  · 2017
 - Group: Science | Board: Dinajpur | GPA: 5.00 out of 5.00 
 
-Other Achievements
------
-
-1. **Disaster Hackathon 2.0 Finalist**
-- Issued by: Start Network · Nov 2024
-- Top 5 Teams advancing to the CULTIVATE STAGE (October 27–30, 2024) at CCDB Climate Centre, Gazipur.  
-- Offered to pilot our project at the end of this stage!  
-- *Team Name*: PREVENTERs | *Team Lead*: Sajeeb Kumar Ray  
-
-1. **Champion - Innovation Showcasing-2024**
-- Issued by: ICT Cell, PUST · May 2024  
-- Awarded the First Prize by the Honorable Vice-Chancellor of Pabna University of Science and Technology.  
-
-1. **3rd Rank (Bangladesh) - Codeforces Round 857 (Div. 2)**
-- Issued by: Codeforces · Mar 2023  
-- Solved 4 out of 7 problems.  
-- Country Rank: 3 | Global Rank: 350  
-- [Ranklist](https://codeforces.com/contest/1802/standings/participant/151147589#p151147589) | Profile: [sajeeb02](https://codeforces.com/profile/sajeeb02)   
-<!-- - ![Codeforces Ranklist](Codeforces_Round_857_Ranklist.jpg) -->
-
-1. **Champion - ICE Fiesta Programming Contest-2023**
-- Issued by: ICE Association· Jan 2023  
-- Team contest held during 2nd Year 1st Semester.  
-- Team Name: PUSTFaulhabers2  
-- [Ranklist](https://lightoj.com/contest/icefiesta2023/ranklist)  
-<!-- - ![ICE Fiesta Ranklist](ICE_FIESTA_2023_PROGRAMMING_CONTEST_RANKLIST.jpg) -->
-
-1. **4th Rank (Bangladesh) - CodeChef Starters 49 Division 4**
-- Issued by: CodeChef · Jul 2022  
-- Solved 7 out of 8 problems.  
-- **Country Rank**: 4 | **Global Rank**: 171  
-- [Ranklist](https://www.codechef.com/rankings/START49D?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank)  |  Profile: [sajeeb02](https://www.codechef.com/users/sajeeb02)  
-<!-- - ![CodeChef Ranklist](CodeChef_Ranklist_START49D.jpg) -->
-
-1. **5th Rank (Bangladesh) - CodeChef Starters 79 Division 2**
-- Issued by: CodeChef · Mar 2023  
-- Solved 5 out of 8 problems.  
-- Country Rank: 5 | Global Rank: 123  
-- [Ranklist](https://www.codechef.com/rankings/START79B?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank)  |  Profile: [sajeeb02](https://www.codechef.com/users/sajeeb02)  
-<!-- - ![CodeChef Ranklist](CodeChef_Ranklist_START79B.jpg) -->
 
 <h3> Biography </h3>
 
