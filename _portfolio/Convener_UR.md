@@ -13,4 +13,6 @@ This course aims to empower students with the essential tools to contribute mean
 None of this would have been possible without the hard work and dedication of the Solver Green team.
 <br>
 <button class = "btn" onclick="window.location.href='https://web.facebook.com/solvergreen1';">Visit Solver Green</button> <button class = "btn" onclick="window.location.href='https://web.facebook.com/share/p/1HJsdccyxT/';">View Unlocking Research Course</button>
- <img src='/images/Convener-Crest.jpg
+<img src='/images/UR_SS.jpg'>"
+<h3>Crest of Appriciation  <h3>
+<img src='/images/Convener-Crest.jpg'>
