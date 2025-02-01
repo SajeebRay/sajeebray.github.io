@@ -11,6 +11,7 @@ redirect_from:
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
+
 Academic
 -----
 
