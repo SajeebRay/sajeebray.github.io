@@ -1,6 +1,6 @@
 ---
 title: "Student of the Year Award - 2025"
-excerpt: "Issued by: Dept. of ICE, PUST. <img src='/images/Student-of-the-Year-Award.jpg'>"
+excerpt: "Issued by: Dept. of Information and Communication Engineering, Pabna University of Science and Technology <img src='/images/Student-of-the-Year-Award.jpg'>"
 collection: portfolio
 ---
 
