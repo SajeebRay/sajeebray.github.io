@@ -2,7 +2,7 @@
 title: "Deep Learning Based Lung Image Segmentation Using XR-U-Net"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2024-02-21-talk-Lung-Seg
+permalink: /talks/2024-12-21-talk-Lung-Seg
 venue: "27th International Conference on Computer and Information Technology (ICCIT)"
 date: 2014-12-21
 location: "Cox's Bazar, Bangladesh"
