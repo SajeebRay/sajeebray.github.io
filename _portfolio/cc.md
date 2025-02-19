@@ -2,6 +2,7 @@
 title: "Competitive Programming - CodeChef"
 excerpt: "I used CodeChef online judge for contests only.<br/>Highest rating: 1822 (4-Star) <img src='/images/CodeChef.jpg'>"
 collection: portfolio
+date: 2025-02-18
 ---
 
 In codechef, I was participate in contests only and recognized as 4-star problem solver. 
