@@ -1,7 +1,7 @@
 ---
 title: "Outstanding Academic Result"
 excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST) <img src='/images/Academic-Award.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 1. **B.Sc. (Engineering) in ICE**

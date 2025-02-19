@@ -11,8 +11,10 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Download CV"
     url: /files/CV-SK-Ray.pdf
