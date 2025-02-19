@@ -27,7 +27,7 @@ main:
   # Need a section for Extra-Curricular
 
   # Available sections are
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Blog Posts"
+    url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/    
