@@ -22,20 +22,6 @@ Sajeeb Kumar Ray is a top-performing engineering student, researcher, and leader
       body {
           font-family: Arial, sans-serif;
       }
-      .hero-section {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          padding: 50px;
-          background-color: #f8f9fa;
-      }
-      .hero-text {
-          max-width: 60%;
-      }
-      .hero-section img {
-          max-width: 250px;
-          border-radius: 10px;
-      }
       .project-card {
           display: flex;
           align-items: center;
@@ -50,59 +36,72 @@ Sajeeb Kumar Ray is a top-performing engineering student, researcher, and leader
           max-width: 60%;
       }
       .project-card img {
-          width: 100px;
+          max-width: 150px;
+          height: auto;
           border-radius: 10px;
       }
       .btn-custom {
-          background-color: #a9a9a9; /* Ash color */
+          background-color: #a9a9a9;
           color: white;
           border-radius: 3px;
-          padding: 5px 10px; /* Smaller button */
+          padding: 5px 10px;
           font-size: 14px;
-          text-decoration: none; /* Remove underline */
+          text-decoration: none;
           display: inline-block;
           border: none;
       }
       .btn-custom:hover {
-          background-color: #808080; /* Darker ash on hover */
+          background-color: #808080;
       }
     </style>
-  
 </head>
 <body>
-
-    <br>
-    <!-- Hero Section -->
-    <section class="hero-section">
-        <div class="hero-text">
-            <h2>AI Baby Nursing Robot</h2>
-            <small>Jan 24 to Mar 24</small>
-            <p>An automated baby rocker capable of classifying baby cries to understand their needs. It can provide crucial information such as gas leakage, smoke detection, temperature, humidity, and CO levels in the home environment. (Partial Contribution)</p>
-            <!-- <a href="https://github.com/SajeebRay/Infant-Monitoring-System" class="btn btn-custom">GitHub</a> -->
-        </div>
-        <img src="ICE Logo.jpeg" alt="AI Baby Nursing Robot">
-    </section>
-
     <div class="container mt-5">
-        <!-- Project 1 -->
+        <!-- AI Baby Nursing Robot -->
+        <div class="project-card">
+            <div class="project-text">
+                <h2>AI Baby Nursing Robot</h2>
+                <small>Jan 24 to Mar 24</small>
+                <p>An automated baby rocker capable of classifying baby cries to understand their needs. It can provide necessary information such as gas leakage, smoke detection, temperature, humidity, and CO levels in the home environment. (Partial Contribution)</p>
+                <p><strong>Hardware:</strong> ESP32, Sensors, Microcontroller</p>
+                <p><strong>Software:</strong> Embedded C, Python</p>
+            </div>
+            <img src="ICE Logo.jpeg" alt="AI Baby Nursing Robot">
+        </div>
+        
+        <!-- Infant Monitoring System -->
         <div class="project-card">
             <div class="project-text">
                 <h2>Infant Monitoring System</h2>
-                <small>Feb 23 to May 23</small>
-                <p>A mobile-based system for monitoring infants using IoT devices and ESP32.</p>
-                <p><strong>Hardware:</strong> ESP32, Sensors, IoT Modules</p>
-                <p><strong>Software:</strong> Android App, Firebase, Arduino</p>
+                <small>Aug 23 to Oct 23</small>
+                <p>A low-cost, mobile-based system proposed to monitor infants in workplaces. The system uses IoT devices and real-time video transfer to monitor infants and detect safety hazards. The system includes a video calling feature.</p>
+                <p><strong>Hardware:</strong> ESP32, ESP32 CAM, GSM Module, PIR, DHT11, MQ-2 Sensors</p>
+                <p><strong>Software:</strong> Arduino, JavaScript, HTML, CSS, XML</p>
                 <a href="https://github.com/SajeebRay/Infant-Monitoring-System" class="btn btn-custom">GitHub</a>
             </div>
-            <img src="https://github.com/SajeebRay/sajeebray.github.io/images/CodeChef.jpg" alt="Infant Monitoring System">
+            <img src="CodeChef.jpg" alt="Infant Monitoring System">
         </div>
 
+        <!-- Project 4 -->
+        <div class="project-card">
+          <div class="project-text">
+              <h2>Industrial Packaging Circuit</h2>
+              <small>Jul 23 to Aug 23</small>
+              <p>This device enables industrial to offer trial run of their hardware. Also, it will enhance the EMI system. This circuit uses security system, using the security password the customer can start the machine. There we use three passwords, two for 15 days trial run. And, one for pro-password, using this the device will run forever.</p>
+              <p><strong>Hardware:</strong> RFID, Security Sensors</p>
+              <p><strong>Software:</strong> Python, Embedded Systems</p>
+              <a href="https://github.com/SajeebRay/Industrial-Packaging-Circuit" class="btn btn-custom">GitHub</a>
+          </div>
+              <img src="project3.jpg" alt="Industrial Packaging Circuit">
+          </div>
+        </div>
+        
         <!-- Project 2 -->
         <div class="project-card">
             <div class="project-text">
                 <h2>Production Debugger Circuit</h2>
-                <small>Apr 22 to Jun 22</small>
-                <p>A circuit designed to debug cement factory production line issues.</p>
+                <small>Sep 23 to Oct 23</small>
+                <p>This Project was did for the industrial solution purpose... <br> Problem Statement: In the subjected factory, they use two production lines of cement bag packing. But these lines are not synchronously perform their task. That causes the bag overlapping on the conveyor belt. Also, they want to count the total number number of bag.</p>
                 <p><strong>Hardware:</strong> Microcontroller, Industrial Sensors</p>
                 <p><strong>Software:</strong> Embedded C, Python for data analysis</p>
                 <a href="https://github.com/SajeebRay/Production-Debugger-Circuit-for-Cement-Factory" class="btn btn-custom">GitHub</a>
@@ -114,34 +113,32 @@ Sajeeb Kumar Ray is a top-performing engineering student, researcher, and leader
         <div class="project-card">
             <div class="project-text">
                 <h2>Temperature Controlled Fan</h2>
-                <small>Jan 24 to Mar 24</small>
-                <p>Fan control system that adjusts speed based on environmental temperature.</p>
+                <small>Aug 23 to Sep 23</small>
+                <p>Temperature controlled fan perceive environmental temperature, and control the fan according to temperature.</p>
                 <p><strong>Hardware:</strong> Microcontroller, Temperature Sensors</p>
                 <p><strong>Software:</strong> Arduino, C++</p>
                 <a href="https://github.com/SajeebRay/Temperature-Controlled-Fan" class="btn btn-custom">GitHub</a>
             </div>
             <img src="https://github.com/SajeebRay/Temperature-Controlled-Fan/blob/main/Power%20On.jpg" alt="Temperature Controlled Fan">
         </div>
-
-        <!-- Project 4 -->
+        
+        <!-- RC Plane -->
         <div class="project-card">
             <div class="project-text">
-                <h2>Industrial Packaging Circuit</h2>
-                <small>Aug 23 to Nov 23</small>
-                <p>A security-based packaging circuit to prevent unauthorized access.</p>
-                <p><strong>Hardware:</strong> RFID, Security Sensors</p>
-                <p><strong>Software:</strong> Python, Embedded Systems</p>
-                <a href="https://github.com/SajeebRay/Industrial-Packaging-Circuit" class="btn btn-custom">GitHub</a>
+                <h2>RC Plane</h2>
+                <small>May 23 to Jun 23</small>
+                <p>Radio-controlled airplane for safety surveillance and transportation. My role in this project was to debug mistakes and assist teammates. Other members were ALAMIN and Gulam Mustofa.</p>
+                <p><strong>Hardware:</strong> Transmitter, Receiver, Servo Motor, BLDC Motor</p>
+                <p><strong>Software:</strong> Arduino</p>
             </div>
-            <img src="project3.jpg" alt="Industrial Packaging Circuit">
+            <img src="rc_plane.jpg" alt="RC Plane">
         </div>
     </div>
 
-    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
 </body>
 </html>
+
 
 {% include base_path %}
 
