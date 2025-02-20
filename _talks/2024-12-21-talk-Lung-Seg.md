@@ -7,6 +7,7 @@ venue: "27th International Conference on Computer and Information Technology (IC
 date: 2024-12-21
 location: "Cox's Bazar, Bangladesh"
 ---
+<img src='/images/cox_conference3.jpg'>
 <button class = "btn" onclick="window.location.href='http://sajeebray.github.io/files/1057-slides.pdf';">View Slides</button>
 
 In this talk, we explore the implementation of our research on "Deep Learning Based Lung Image Segmentation Using XR-U-Net". This work focuses on enhancing the accuracy of lung image segmentation without preprocessing of images using a novel deep-learning architecture.
@@ -112,3 +113,8 @@ We extend our gratitude to the Department of Information and Communication Engin
 ---
 
 Feel free to contribute, raise issues, or suggest improvements!
+
+<h3>After Technical Session </h3>
+<img src='/images/cox_conference2.jpg'>
+<h3>After closing ceremony of the conference at Long Beach Hotel, Cox's Bazar</h3>
+<img src='/images/cox_conference.jpg'>
