@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify"> Experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Image Processing, distinguished as the top academic performer in the B.Sc. in Information and Communication Engineering (ICE)<br></div>
+<div align="justify"> Experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Image Processing. Ranked first among all students in the B.Sc. in Information and Communication Engineering (ICE). Strong background in competitive programming, with high rankings on CodeForces and CodeChef. (ICE)<br></div>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
