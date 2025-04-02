@@ -7,8 +7,7 @@ excerpt: 'We introduce a Bangla image captioning model using EfficientNetB4 and 
 date: 2024-12-14
 venue: '6th International Conference on Sustainable Technologies for Industry 5.0 (STI), Dhaka, Bangladesh'
 paperurl: 'http://academicpages.github.io/files/Generating-Bangla-Image-Captions.pdf'
-citation: 'MA Hossain, Mirza AFMRH, SK Ray and N Islam, "Generating Bangla Image
-Captions with Deep Learning Techniques", 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI), Dhaka, Bangladesh.'
+citation: 'MA Hossain, Mirza AFMRH, SK Ray and N Islam, "Generating Bangla Image Captions with Deep Learning Techniques", 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI), Dhaka, Bangladesh.'
 ---
 
 <div align="justify"> 
