@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify"> Experienced researcher in Deep Learning and Machine Learning with 3+ years of expertise in Image Processing, distinguished as the top academic performer in the B.Sc. (Engineering) <br></div>
+<div align="justify"> Experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Image Processing, distinguished as the top academic performer in the B.Sc. in Information and Communication Engineering (ICE)<br></div>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
@@ -32,7 +32,7 @@ Academic
 <h3> Biography </h3>
 
 <div align="justify">
-Sajeeb Kumar Ray is an experienced researcher in Deep Learning and Machine Learning, with 3+ years of expertise in Image Processing, including transformation, classification, segmentation, and registration. He has achieved the first position in his department in the B.Sc. in Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST). His research interests encompass Computer Vision, Image Processing, Deep Learning, Machine Learning, Embedded Systems, and the Internet of Things (IoT). He has contributed to the field through the publication of a Scopus-indexed journal article and four conference articles. 
+Sajeeb Kumar Ray is experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Image Processing, including transformation, classification, segmentation, and registration. He has achieved the first position in his department in the B.Sc. in Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST). His research interests encompass Computer Vision, Image Processing, Deep Learning, Machine Learning, Embedded Systems, and the Internet of Things (IoT). He has contributed to the field through the publication of a Scopus-indexed journal article and four conference articles. 
 <br>
 In addition to research, Sajeeb has successfully completed three major embedded systems projects. And excelled in competitive programming, participating in over 80 contests and solving more than 750 problems. He holds a Specialist rank on CodeForces, a 4-star rating on CodeChef, and a Gold badge on HackerRank.
 <br>
