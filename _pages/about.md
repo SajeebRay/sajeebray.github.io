@@ -18,7 +18,7 @@ Academic
 1. **B.Sc. (Engineering) in ICE**
  · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
 - Degree Expected: June 2025 (1-semester remaining)
-- *CGPA: 3.89 (First Postion)*
+- *CGPA: 3.89 out of 4.00 (First Position)*
 
 1. **Higher Secondary School Certificate**
  · Collectorate School and College Rangpur (CSCR), Rangpur  · 2019
