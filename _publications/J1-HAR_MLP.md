@@ -2,7 +2,7 @@
 title: "Enhanced human activity recognition through deep multi-layer perceptron on the UCI-HAR dataset"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/J1-HAR_MLP
 excerpt: 'This paper examines human activity recognition (HAR) using the UCI-HAR dataset, presenting a multi-layer perceptron (MLP) model that achieves 97% accuracy.'
 date: 2024-06-01
 venue: 'International Journal of Advances in Applied Sciences (IJAAS)'

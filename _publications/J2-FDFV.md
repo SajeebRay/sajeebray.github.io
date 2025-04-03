@@ -2,10 +2,10 @@
 title: "Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50 [Under Review]"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/J2-PHM_LCDI
 excerpt: 'In this research, developed a deep multi-task learning CNN model (MTL-CNN) for fruit freshness detection and fruit-type classification, achieving 98.63% accuracy by leveraging shared feature extraction and addressing imbalanced datasets. '
 date: 2024-02-02
-venue: 'Under Review in MECS Press Journal'
+venue: 'Under Review'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'SK Ray, MA Hossain, N Islam and Mirza AFMRH; Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50.'
