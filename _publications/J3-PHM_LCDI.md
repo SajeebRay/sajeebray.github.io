@@ -16,4 +16,4 @@ This study introduces a novel Dual-Head Convolutional Neural Network (DH-CNN) de
 <button class = "btn" onclick="window.location.href='https://github.com/SajeebRay/PHM_LCDI-Plant-Health-Monitoring-using-Dual-Head-CNN';">Code</button>   
 <button class = "btn" onclick="window.location.href='https://doi.org/10.1016/j.jafr.2025.101930';">Paper</button>
 
-<img src='https://github.com/SajeebRay/sajeebray.github.io/blob/master/images/PHM-LCDI-photo.png'>
+<img src='/images/PHM-LCDI-photo.png'>
