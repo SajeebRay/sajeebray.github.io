@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/conference-1
 excerpt: 'This study introduces a vehicle detection and classification framework for Bangladeshi roadways using the YOLOv8n model, optimizing traffic flow and enhancing road safety. Tested on real-time traffic footage, the model effectively handles urban complexities but requires further accuracy improvements in congested settings.'
 date: 2024-12-7
-venue: '2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh'
+venue: 'International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh'
 paperurl: 'http://sajeebray.github.io/files/YoloV8-Vehicle-Classification-and-Detection.pdf' 
 citation: 'N. Islam, S. K. Ray, M. A. Hossain, M. A. Rashidul Hasan, Alamin and M. B. Al Zabir Shammo, "Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis," 2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh, 2024, pp. 1-4, doi: 10.1109/ICRPSET64863.2024.10955913'
 ---

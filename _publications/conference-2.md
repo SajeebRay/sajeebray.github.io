@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/conference-2
 excerpt: 'The Embedded Systems-based AC Device Controller automates the operation of AC devices using a microcontroller and real-time clock (RTC) for precise, user-defined durations. It enhances energy efficiency, operational safety, and convenience by eliminating manual intervention and preventing unnecessary power usage.'
 date: 2024-12-7
-venue: '2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh'
+venue: 'International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh'
 paperurl: 'http://sajeebray.github.io/files/AC-Device-Controller.pdf'
 citation: 'Alamin, S. K. Ray, M. A. Hossain, M. A. R. Hasan, N. Islam and M. M. A. Hossain, "Embedded Systems-Based AC Device Controller," 2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh, 2024, pp. 1-6, doi: 10.1109/ICRPSET64863.2024.10955881'
 ---
