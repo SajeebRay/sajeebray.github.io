@@ -7,7 +7,7 @@ excerpt: 'We propose XR-U-Net, an enhanced deep-learning framework based on U-Ne
 date: 2024-12-21
 venue: '27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.'
 paperurl: 'http://sajeebray.github.io/files/UNet-Lung-Image-Segmentation.pdf'
-citation: 'SK Ray, A Islam, MC Chanda, N Islam, MA Hossain, Mirza AFMRH and Alamin, "Deep Learning Based Lung Image Segmentation Using XR-U-Net", 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh.'
+citation: 'S. K. Ray, A. Islam, M.C. Chanda, N. Islam, M. A. Hossain, M. A. R. Hasan and Alamin, "Deep Learning Based Lung Image Segmentation Using XR-U-Net", 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox’s Bazar, Bangladesh, 2024, pp. 1-6'
 ---
 
 <div align="justify"> 
