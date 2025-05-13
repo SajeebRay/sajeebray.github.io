@@ -9,7 +9,7 @@ location: "Cox's Bazar, Bangladesh"
 ---
 <img src='/images/cox_conference3.jpg'>
 
-<button class = "btn" onclick="window.location.href='http://sajeebray.github.io/files/1057-slides.pdf';">View Slides</button>
+<button class = "btn" onclick="window.location.href='http://sajeebray.github.io/files/1057-slides.pdf';">View Slides</button> <button class = "btn" onclick="window.location.href='http://sajeebray.github.io/files/UNet-Lung-Image-Segmentation.pdf';">IEEE Article</button>
 
 In this talk, we explore the implementation of our research on "Deep Learning Based Lung Image Segmentation Using XR-U-Net". This work focuses on enhancing the accuracy of lung image segmentation without preprocessing of images using a novel deep-learning architecture.
 
