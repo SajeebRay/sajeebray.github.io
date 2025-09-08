@@ -2,12 +2,15 @@
 title: "Outstanding Academic Result"
 excerpt: "Student of Dept. of Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST) <img src='/images/Academic-Award.jpg'>"
 collection: portfolio
-date: 2024-02-18
+date: 2025-09-09
 ---
 
 1. **B.Sc. (Engineering) in ICE**
  · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
-- Degree Expected: June 2025
+- *CGPA: 3.91 out of 4.00 (Honours; First Position)*
+- *Dean's List*
+- *Prospective Gold Medalist (awaiting final results)*
+
 - *1st Year Details*:  
   - 1st Semester SGPA: 3.80 (19.5 Credits, Position: 1st)   
   - 2nd Semester SGPA: 3.83 (22.5 Credits, Position: 2nd)   
@@ -20,6 +23,10 @@ date: 2024-02-18
   - 1st Semester SGPA: 3.88 (19.5 Credits, Position: 2nd)  
   - 2nd Semester SGPA: 3.93 (21 Credits, Position: 1st)  
   - *Overall YGPA*: 3.91, Overall Position: 1st among 41 students
+- *4th Year Details*:  
+  - 1st Semester SGPA: 3.96 (18.75 Credits, Position: 1st)  
+  - 2nd Semester SGPA: 4.00 (21.75 Credits, Position: 1st)  
+  - *Overall YGPA*: 3.98, Overall Position: 1st among 41 students
 
 1. **Higher Secondary School Certificate**
  · Collectorate School and College Rangpur (CSCR), Rangpur  · 2019
