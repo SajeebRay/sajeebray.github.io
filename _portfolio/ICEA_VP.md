@@ -28,4 +28,7 @@ Since taking responsibility, the first executive committee of the ICE Associatio
 In successfully implementing each of these initiatives, we have received sincere guidance and support from our honorable President, the Departmental Chairman, and respected faculty members. Every member of the committee has strived to fulfill their responsibilities with dedication and sincerity
 
 We have carried out all our activities as general students of the department, without misusing any position of authority, and always trying to work on the basis of equality and mutual respect. We strongly believe that only through unity and cooperation can we move the department forward.
+
+Timeframe: Jan 2025 to Sep 2025
+
 <img src='/images/ICEA_VP.jpg'>
