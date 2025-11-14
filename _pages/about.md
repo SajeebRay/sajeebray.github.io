@@ -7,10 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify"> Experienced in Deep Learning and Machine Learning with 2+ years of research expertise in Computer Vision. Completed a Bachelor’s degree in Information and Communication Engineering (ICE) at Pabna University of Science and Technology, graduated first in his class. Strong background in competitive programming, with high rankings on CodeForces and CodeChef. <br></div>
+<div align="justify"> Experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Computer Vision, Precision Agriculture, and AI in Healthcare. Completed a Bachelor’s degree in Information and Communication Engineering (ICE) at Pabna University of Science and Technology, graduated first in his class. Strong background in competitive programming, with high rankings on CodeForces and CodeChef. <br></div>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
+
+
+Experience
+-----
+
+- **Researcher**, 
+  *BioRAIN Lab · Part-time  
+  *Oct 2024 – Present*
+
+- **International Editorial Board Member**,  
+  Journal of Applied Science, Engineering, Technology, and Education (ASCI)  
+  *Jun 2025 – Present*
+
+- **Research Assistant**, 
+  *Dept. of ICE, Pabna University of Science and Technology 
+  *May 2024 – Jun 2025 (Part Time)
+
 
 Academic
 -----
@@ -33,7 +50,7 @@ Academic
 <h3> Biography </h3>
 
 <div align="justify">
-Sajeeb Kumar Ray is experienced in Deep Learning and Machine Learning with 2+ years of research expertise in Computer Vision, including transformation, classification, segmentation, and registration. He completed his Bachelor’s degree in Information and Communication Engineering from Pabna University of Science and Technology, where he graduated first in his class. His research interests encompass Computer Vision, Image Processing, Deep Learning, Machine Learning, Embedded Systems, and the Internet of Things (IoT). He has contributed to the field through publications in top-tier journals and international conferences. 
+Sajeeb Kumar Ray is experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Computer Vision, including transformation, classification, segmentation, and registration. He completed his Bachelor’s degree in Information and Communication Engineering from Pabna University of Science and Technology, where he graduated first in his class. His research interests encompass Computer Vision, Image Processing, Deep Learning, Machine Learning, Embedded Systems, and the Internet of Things (IoT). He has contributed to the field through publications in top-tier journals and international conferences. 
 <br>
 In addition to research, Sajeeb has successfully completed three major embedded systems projects. And excelled in competitive programming, participating in over 80 contests and solving more than 750 problems. He holds a Specialist rank on CodeForces, a 4-star rating on CodeChef, and a Gold badge on HackerRank.
 <br>
