@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/J5-AttnBanCap
 # excerpt: 'Developed a Dual-Head CNN (DH-CNN) for plant leaf classification and disease detection. Achieved 99.71% accuracy in leaf classification and 99.26% in disease identification using the PlantVillage dataset. Enhanced agricultural automation for improved crop management.'
-# date: 2025-07-01
-venue: 'Journal of Agriculture and Food Research (Elsevier-Q1)'
+date: 2025-01-01
+venue: 'Intelligent Systems with Applications (Under Review; Elsevier-Q1)'
 # slidesurl: 'https://www.canva.com/design/DAGgxg-g2Rs/UALlt8twJsyZw7LBEg0R6A/view?utm_content=DAGgxg-g2Rs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcbd6f1c7fb'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.5708615'
 citation: 'Md Anwar Hossain, Mirza AFM Rashidul Hasan, Sajeeb Kumar Ray, and Naima Islam, Attn-CapBN: An Attention-based Bangla Image Captioning using the Bangla View Dataset. Available at SSRN: https://ssrn.com/abstract=5708615 or http://dx.doi.org/10.2139/ssrn.5708615'

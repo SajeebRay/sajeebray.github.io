@@ -26,7 +26,7 @@ Experience
 
 - **Research Assistant**, 
   - Dept. of ICE, Pabna University of Science and Technology 
-  - May 2024 – Jun 2025 (Part Time)
+  - May 2024 – Jun 2025
 
 
 Academic
