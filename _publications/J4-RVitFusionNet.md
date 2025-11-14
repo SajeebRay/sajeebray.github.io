@@ -1,14 +1,16 @@
 ---
-title: "Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50 [Under Review]"
+title: "RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/J2-PHM_LCDI
-excerpt: 'In this research, developed a deep multi-task learning CNN model (MTL-CNN) for fruit freshness detection and fruit-type classification, achieving 98.63% accuracy by leveraging shared feature extraction and addressing imbalanced datasets. '
-date: 2024-02-02
-venue: 'Under Review'
+permalink: /publication/J4-RVitFusionNet
+excerpt: 'This manuscript presents RViT-FusionNet, a hybrid deep learning architecture that combines convolutional neural networks (CNNs) with a refined Vision Transformer (RViT) for brain tumor classification using MRI scans. The key contribution is in the local cross-attention feature fusion mechanism, designed to capture both local spatial features and global contextual dependencies across multiple MRI modalities. Extensive experiments on benchmark datasets demonstrate that the proposed framework achieves higher accuracy and robustness compared to standard CNN, ViT, and hybrid transformer models.'
+date: 2025-06-09
+venue: 'Neural Computing and Applications (Under Revision)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'SK Ray, MA Hossain, N Islam and Mirza AFMRH; Freshness Detection of Fruits and Vegetables Using Multi-Task CNN and ResNet-50.'
+citation: 'N. Islam, S. K. Ray, M. A. Hossain et al., “RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification,” Neural Computing and Applications.'
 ---
 
-In this research, developed a deep multi-task learning CNN model (MTL-CNN) for fruit freshness detection and fruit-type classification, achieving 98.63% accuracy by leveraging shared feature extraction and addressing imbalanced datasets. The model outperforms existing methods like InceptionV3 and CNN_BiLSTM, offering significant implications for automated quality control, food safety, and waste reduction in the agricultural and consumer sectors.
+This manuscript presents RViT-FusionNet, a hybrid deep learning architecture that combines convolutional neural networks (CNNs) with a refined Vision Transformer (RViT) for brain tumor classification using MRI scans. The key contribution is in the local cross-attention feature fusion mechanism, designed to capture both local spatial features and global contextual dependencies across multiple MRI modalities. Extensive experiments on benchmark datasets demonstrate that the proposed framework achieves higher accuracy and robustness compared to standard CNN, ViT, and hybrid transformer models.
+
+*Equal contribution with first author
