@@ -7,7 +7,7 @@ excerpt: 'An IoT-based Smart Product Price Display System for the Bangladesh ret
 date: 2025-12-21
 venue: '28th International Conference on Computer and Information Technology, Cox’s Bazar, Bangladesh'
 # paperurl: 'http://sajeebray.github.io/files/AC-Device-Controller.pdf'
-citation: 'Alamin, T. Debnath, S. K. Ray, N. Islam, M. A. Hossain, S. Sarker and M.O. Faruk, "Embedded Systems-Based AC Device Controller," 28th International Conference on Computer and Information Technology, Cox’s Bazar, Bangladesh, 2025'
+citation: 'Alamin, T. Debnath, S. K. Ray, N. Islam, M. A. Hossain, S. Sarker and M.O. Faruk, "IoT Based Smart Product Price List Display Board," 28th International Conference on Computer and Information Technology, Cox’s Bazar, Bangladesh, 2025'
 ---
 
 <div align="justify"> 
