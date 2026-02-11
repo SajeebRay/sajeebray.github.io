@@ -18,7 +18,7 @@ Experience
 - **Lecturer**
   - Department of Computer Science and Engineering
   - Varendra University · Full-time  
-  - Feb 2025 – Present* <button class = "btn" onclick="window.location.href='https://vu.edu.bd/profile/02719/sajeeb-kumar-ray';">Faculty Page</button>
+  - Feb 2026 – Present* <button class = "btn" onclick="window.location.href='https://vu.edu.bd/profile/02719/sajeeb-kumar-ray';">Faculty Page</button>
 
 - **Researcher**, 
   - BioRAIN Lab · Part-time  
