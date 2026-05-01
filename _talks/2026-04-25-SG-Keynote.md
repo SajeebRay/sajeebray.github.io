@@ -41,7 +41,7 @@ is about honest self-evaluation. A student should look at life through three pie
 ### Slide 10, “Restart,” 
 carries the most practical message of all. Life does not always move in a straight line. Mistakes happen, plans fail, and motivation disappears. But complaining does not solve anything. We must keep ourselves under a kind of self-discipline, like being on our own clock. When something good appears, we accept it, learn from it, and restart from a better position. That restart may happen more than once, and that is perfectly fine. Growth is not about never falling; it is about being willing to begin again with more wisdom than before.
 
-By the end of the talk, the message became very clear to me: we plan our lives in our own way, but God has plans in His own way. That sentence does not reduce our responsibility; it deepens it. We must work with sincerity, think with balance, manage our time wisely, and keep restarting whenever necessary. In that way, education becomes more than a degree, and life becomes more than a schedule. It becomes a journey toward becoming a capable, honest, and socially meaningful human being.
+By the end of the talk, the message became very clear: we plan our lives in our own way, but God has plans in His own way. That sentence does not reduce our responsibility; it deepens it. We must work with sincerity, think with balance, manage our time wisely, and keep restarting whenever necessary. In that way, education becomes more than a degree, and life becomes more than a schedule. It becomes a journey toward becoming a capable, honest, and socially meaningful human being.
 
 <h3>Photo Gallery </h3>
 <img src='/files/SG-Keynote-1.jpg'>
