@@ -1,4 +1,3 @@
-
 ---
 title: "Understanding the Traffic Sign through a Deep CNN Architecture "
 collection: publications
