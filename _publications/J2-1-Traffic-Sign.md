@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/J2-1-Traffic-Sign
 excerpt: 'Accurate traffic sign classification is essential for intelligent transportation systems and automated vehicles to ensure safety and navigation efficiency. Our research showcases a specialized CNN model focused on achieving precision in traffic sign detection, utilizing the GTSRB dataset for training. The model incorporates advanced methodologies, including skip connections and bilinear interpolation, to mitigate issues like image noise and low resolution. '
 date: 2026-04-01
-venue: 'Annals of Emerging Technologies in Computing (AETiC)[Q3]'
+venue: 'Annals of Emerging Technologies in Computing (AETiC)[Q2]'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://aetic.theiaer.org/archive/v10/v10n2/p3.html'
 citation: 'Naima Islam, Sajeeb Kumar Ray, Md Mynoddin, Md. Tofael Ahmed, MD. Zahid Hasan, et al., “Understanding the Traffic Sign through  a Deep CNN Architecture”, Annals of Emerging Technologies in Computing (AETiC), Print ISSN: 2516-0281, Online ISSN: 2516-029X, 1 April 2026, Vol. 10, No. 2, pp. 53-68, Published by International Association for Educators and Researchers (IAER), DOI: 10.33166/AETiC.2026.02.003, Available: https://aetic.theiaer.org/archive/v10/v10n2/p3.html.'
