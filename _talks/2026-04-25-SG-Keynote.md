@@ -1,7 +1,7 @@
 ---
-title: "An Undergradutes Guide to Starting Strong"
+title: "An Undergraduate’s Guide to Starting Strong"
 collection: talks
-type: "A Keynote Session"
+type: "Keynote talk on the Career Session of 6th Freshers’ Orientation Programme 2026"
 permalink: /talks/2026-04-25-SG-Keynote
 venue: "Gallery-2"
 date: 2026-04-25
