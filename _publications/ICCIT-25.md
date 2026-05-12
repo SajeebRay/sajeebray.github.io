@@ -6,7 +6,7 @@ permalink: /publication/ICCIT-25
 excerpt: 'An IoT-based Smart Product Price Display System for the Bangladesh retail sector, achieving 99.44% accuracy with real-time remote price updates, improved operational efficiency, and enhanced pricing reliability.'
 date: 2025-12-21
 venue: '28th International Conference on Computer and Information Technology, Cox’s Bazar, Bangladesh'
-# paperurl: 'http://sajeebray.github.io/files/AC-Device-Controller.pdf'
+paperurl: 'https://doi.org/10.1109/ICCIT68739.2025.11490213'
 citation: 'Alamin, T. Debnath, S. K. Ray, N. Islam, M. A. Hossain, S. Sarker and M.O. Faruk, "IoT Based Smart Product Price List Display Board," 28th International Conference on Computer and Information Technology, Cox’s Bazar, Bangladesh, 2025'
 ---
 
