@@ -51,9 +51,8 @@ Academic
 - *GPA: 5.00 out of 5.00*
 
 
-<h3> Biography </h3>
+<h2> Biography </h2>
 
-<div align="justify">
 Sajeeb Kumar Ray is a Bangladeshi researcher and lecturer specializing in **Deep Learning, Machine Learning, and Computer Vision**. He has over three years of research experience in image transformation, classification, segmentation, registration, and explainable artificial intelligence. His recent research direction focuses on **Multimodal Learning** and **Trustworthy AI**, aiming to develop interpretable, reliable, and practically deployable intelligent systems.
 
 He completed his **BACHELOR OF SCIENCE IN ENGINEERING DEGREE WITH HONOURS in Information and Communication Engineering** from **Pabna University of Science and Technology (PUST), Bangladesh**, graduating **first in his class**.
@@ -170,4 +169,3 @@ Sajeeb Kumar Ray’s current research direction focuses on developing **Multimod
 
 His long-term goal is to build intelligent systems that can be effectively used in real-world healthcare and agricultural environments.
 
-</div>
