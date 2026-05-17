@@ -51,6 +51,9 @@ Academic
 - *GPA: 5.00 out of 5.00*
 
 
+
+
+
 <h2> Biography </h2>
 
 Sajeeb Kumar Ray is a Bangladeshi researcher and lecturer specializing in **Deep Learning, Machine Learning, and Computer Vision**. He has over three years of research experience in image transformation, classification, segmentation, registration, and explainable artificial intelligence. His recent research direction focuses on **Multimodal Learning** and **Trustworthy AI**, aiming to develop interpretable, reliable, and practically deployable intelligent systems.
@@ -135,7 +138,7 @@ He is also an active competitive programmer with:
 
 Sajeeb has demonstrated strong leadership and organizational involvement through several academic and student organizations, including:
 
- Vice President of the ICE Association’s 1st Executive Committee 
+- Vice President of the ICE Association’s 1st Executive Committee 
 - Vice President of Solver Green  
 - General Secretary of the Nilphamari Student Welfare Society  
 - Founding Member of the PUST Career and Entrepreneurship Club   
