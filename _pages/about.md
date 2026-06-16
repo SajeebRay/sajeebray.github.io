@@ -22,11 +22,11 @@ Experience
 
 - **Researcher**, 
   - BioRAIN Lab · Part-time  
-  - Oct 2024 – Present*
+  - Oct 2024 – Present* <button class = "btn" onclick="window.location.href='https://biorainlab.net/';">Lab Website</button>
 
 - **International Editorial Board Member**,  
-  - Journal of Applied Science, Engineering, Technology, and Education (ASCI)  
-  - Jun 2025 – Present*
+  - Journal of Applied Science, Engineering, Technology, and Education [Q4; Cite Score: 1.5]
+  - Jun 2025 – Present* <button class = "btn" onclick="window.location.href='https://ascijournal.eu/index.php/asci';">Journal Website</button>
 
 - **Research Assistant**, 
   - Dept. of ICE, Pabna University of Science and Technology 
