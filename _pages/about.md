@@ -25,7 +25,7 @@ Experience
   - Oct 2024 – Present* <button class = "btn" onclick="window.location.href='https://biorainlab.net/';">Lab Website</button>
 
 - **International Editorial Board Member**,  
-  - Journal of Applied Science, Engineering, Technology, and Education [Q4; Cite Score: 1.5]
+  - Journal of Applied Science, Engineering, Technology, and Education [Q4; CS: 1.5]
   - Jun 2025 – Present* <button class = "btn" onclick="window.location.href='https://ascijournal.eu/index.php/asci';">Journal Website</button>
 
 - **Research Assistant**, 
