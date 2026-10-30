@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 <H2>Translated in English</H2>
-Success in Research: PUST’s Sajeeb on His Way to Japan
-<br>
-PUST Correspondent
+<h3>Success in Research: PUST’s Sajeeb on His Way to Japan</h3>
+
+<strong>PUST Correspondent | August 25, 2026</strong>
 <br><br>
 Continuing his track record of success in research, Sajib Kumar Roy, a former student of Pabna University of Science and Technology (PUST), has been awarded the prestigious "MEXT Scholarship" by the Japanese government. On September 24, he is scheduled to leave for the Department of Computer Science and Engineering at the University of Yamanashi in Japan for higher studies and research.
 <br>
