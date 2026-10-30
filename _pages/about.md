@@ -46,7 +46,7 @@ Academic
  · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Bangladesh.
 - *CGPA: 3.91 out of 4.00 (Honours; First Position)*
 - *Dean's List*
-- *Prime Minister Gold Medal 2025 Nominee*
+- *Prime Minister’s Gold Medal 2025 Nominee*
 
 1. **Higher Secondary School Certificate**
  · Collectorate School and College Rangpur (CSCR), Rangpur  · 2019
