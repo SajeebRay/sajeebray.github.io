@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify"> Experienced in Deep Learning and Machine Learning with 3+ years of research expertise in Computer Vision, Precision Agriculture, and AI in Healthcare. Completed a Bachelor’s degree in Information and Communication Engineering (ICE) at Pabna University of Science and Technology, graduated first in his class. Strong background in competitive programming, with high rankings on CodeForces and CodeChef. <br></div>
+<div align="justify"> AI researcher with 3+ years of experience in Deep Learning, Machine Learning, and Computer Vision, focusing on Image Processing and Smart Agriculture. Currently pursuing a Master's by Research degree in Computer Science and Engineering at the University of Yamanashi, Japan, under the prestigious Japanese Government MEXT Scholarship. Graduated first in his class with a B.Sc. in Information and Communication Engineering from Pabna University of Science and Technology. Strong background in competitive programming, with high rankings on Codeforces and CodeChef.<br></div>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/publications/';">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/portfolio/Std_year/';">Student of the Year - 2025</button>
@@ -19,17 +19,17 @@ Experience
   - Department of Computer Science and Engineering
   - University of Yamanashi
   - Government Scholar (Japan)
-  - Feb 2026 – Present*
-
-- **International Editorial Board Member**,  
-  - Journal of Applied Science, Engineering, Technology, and Education [Q4; CS: 1.5]
-  - Jun 2025 – Present* <button class = "btn" onclick="window.location.href='https://ascijournal.eu/index.php/asci';">Journal Website</button>
+  - Oct 2026 – Present*
 
 - **Former Lecturer**
   - Department of Computer Science and Engineering
   - Varendra University · Full-time  
   - Feb 2026 – Sep 2026
 
+- **International Editorial Board Member**,  
+  - Journal of Applied Science, Engineering, Technology, and Education [Q4; CS: 1.5]
+  - Jun 2025 – Present* <button class = "btn" onclick="window.location.href='https://ascijournal.eu/index.php/asci';">Journal Website</button>
+ 
 - **Former Researcher**, 
   - BioRAIN Lab · Part-time  
   - Oct 2024 – Jan 2026
