@@ -15,18 +15,24 @@ redirect_from:
 
 Experience
 -----
-- **Lecturer**
+- **International Research Student**
   - Department of Computer Science and Engineering
-  - Varendra University · Full-time  
-  - Feb 2026 – Present* <button class = "btn" onclick="window.location.href='https://vu.edu.bd/profile/02719/sajeeb-kumar-ray';">Faculty Page</button>
-
-- **Researcher**, 
-  - BioRAIN Lab · Part-time  
-  - Oct 2024 – Present* <button class = "btn" onclick="window.location.href='https://biorainlab.net/';">Lab Website</button>
+  - University of Yamanashi
+  - Government Scholar (Japan)
+  - Feb 2026 – Present*
 
 - **International Editorial Board Member**,  
   - Journal of Applied Science, Engineering, Technology, and Education [Q4; CS: 1.5]
   - Jun 2025 – Present* <button class = "btn" onclick="window.location.href='https://ascijournal.eu/index.php/asci';">Journal Website</button>
+
+- **Former Lecturer**
+  - Department of Computer Science and Engineering
+  - Varendra University · Full-time  
+  - Feb 2026 – Sep 2026
+
+- **Former Researcher**, 
+  - BioRAIN Lab · Part-time  
+  - Oct 2024 – Jan 2026
 
 - **Research Assistant**, 
   - Dept. of ICE, Pabna University of Science and Technology 
@@ -37,10 +43,10 @@ Academic
 -----
 
 1. **B.Sc. (Engineering) in ICE**
- · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
+ · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Bangladesh.
 - *CGPA: 3.91 out of 4.00 (Honours; First Position)*
 - *Dean's List*
-- *Prospective Gold Medalist (awaiting final results)*
+- *Prime Minister Gold Medal 2025 Nominee*
 
 1. **Higher Secondary School Certificate**
  · Collectorate School and College Rangpur (CSCR), Rangpur  · 2019
@@ -54,13 +60,13 @@ Academic
 
 
 
-<h2> Biography </h2>
+<h2> Short Biography </h2>
 
-Sajeeb Kumar Ray is a Bangladeshi researcher and lecturer specializing in **Deep Learning, Machine Learning, and Computer Vision**. He has over three years of research experience in image transformation, classification, segmentation, registration, and explainable artificial intelligence. His recent research direction focuses on **Multimodal Learning** and **Trustworthy AI**, aiming to develop interpretable, reliable, and practically deployable intelligent systems.
+Sajeeb Kumar Ray is a Bangladeshi AI researcher specializing in **Deep Learning, Machine Learning, and Computer Vision**. He has over three years of research experience in image transformation, classification, segmentation, registration, and Explainable Artificial Intelligence (XAI). He is currently pursuing his Master's degree in Computer Science and Engineering at the **University of Yamanashi, Japan**, as an International Research Student under the prestigious **Japanese Government MEXT Scholarship**. His current research focuses on **3D Reconstruction for Smart Agriculture**.
 
-He completed his **BACHELOR OF SCIENCE IN ENGINEERING DEGREE WITH HONOURS in Information and Communication Engineering** from **Pabna University of Science and Technology (PUST), Bangladesh**, graduating **first in his class**.
+He completed his **Bachelor of Science in Engineering (B.Sc. Eng.) with Honours in Information and Communication Engineering** from **Pabna University of Science and Technology (PUST), Bangladesh**, graduating **first in his class** with a CGPA of **3.91/4.00**. He received the **Student of the Year Award 2025** and is a **Prime Minister's Gold Medal 2025 Nominee**.
 
-Currently, he serves as a **Lecturer** in the Department of **Computer Science and Engineering** at **Varendra University (VU), Bangladesh**, where he teaches **Digital Image Processing** and contributes to AI and computer vision research activities.
+Sajeeb previously served as a **Lecturer** in the Department of **Computer Science and Engineering** at **Varendra University (VU), Bangladesh**. During his tenure, he taught **Digital Image Processing**, mentored students through the **Varendra University Programming Club (VUPC)**, and contributed to AI and Computer Vision research activities.
 
 ---
 

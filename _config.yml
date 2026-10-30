@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sajeeb's Homepage"
+title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "Sajee Kumar Ray"
 description              : &description "Researcher"
@@ -24,7 +24,7 @@ author:
   avatar           : "Profile1.jpg"
   name             : "Sajeeb Kumar Ray"
   pronouns         : # example: "she/her"  
-  bio              : "AI for Agriculture & Healthcare Researcher | Lecturer (CSE) @ VU | Specialist @ Codeforces | Student of the Year Awardee"
+  bio              : "AI Researcher | Former Lecturer (CSE) @ Varendra University | Specialist @ Codeforces | Student of the Year Awardee"
   location         : "Rajshahi, Bangladesh"
   employer         : "Pabna University of Science and Technology"
   uri              : # URL
